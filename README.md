@@ -6,3 +6,5 @@ Features:
 - CSV-based student data management
 
 Technologies: Python, OpenCV, face_recognition, Tkinter, Numpy
+
+Drive link : https://drive.google.com/file/d/1wZSoF-nWPDgATDuCHitdxsL3KK2gpej6/view?usp=sharing
